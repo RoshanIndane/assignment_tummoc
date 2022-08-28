@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react'
 import "./signup.css"
 import axios from "axios"
